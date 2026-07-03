@@ -1,0 +1,8 @@
+{
+  "vocab": 50304,
+  "hidden": 768,
+  "k": 192,
+  "emb": "real:../models/pythia-160m-step143000",
+  "C_copy_train": 0.9965000748634338,
+  "C_copy_test": 0.4645000100135803
+}

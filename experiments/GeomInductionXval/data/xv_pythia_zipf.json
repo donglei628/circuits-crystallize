@@ -1,0 +1,14 @@
+{
+  "freq": "zipf",
+  "vocab": 50304,
+  "t_same": null,
+  "t_strict": null,
+  "traj": [
+    {
+      "step": 0,
+      "ind_same": 0.0,
+      "ind_strict": 0.0,
+      "qk": 0.010992517694830894
+    }
+  ]
+}

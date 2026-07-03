@@ -1,0 +1,110 @@
+[
+  {
+    "batch": 16,
+    "init": 0,
+    "noise": 0,
+    "tstar": 2740
+  },
+  {
+    "batch": 16,
+    "init": 0,
+    "noise": 1,
+    "tstar": 4860
+  },
+  {
+    "batch": 16,
+    "init": 0,
+    "noise": 2,
+    "tstar": -1
+  },
+  {
+    "batch": 16,
+    "init": 0,
+    "noise": 3,
+    "tstar": 6080
+  },
+  {
+    "batch": 16,
+    "init": 0,
+    "noise": 4,
+    "tstar": 6400
+  },
+  {
+    "batch": 16,
+    "init": 0,
+    "noise": 5,
+    "tstar": 3300
+  },
+  {
+    "batch": 16,
+    "init": 0,
+    "noise": 6,
+    "tstar": 2860
+  },
+  {
+    "batch": 16,
+    "init": 0,
+    "noise": 7,
+    "tstar": 12000
+  },
+  {
+    "batch": 16,
+    "init": 0,
+    "noise": 8,
+    "tstar": 3560
+  },
+  {
+    "batch": 16,
+    "init": 0,
+    "noise": 9,
+    "tstar": 6320
+  },
+  {
+    "batch": 16,
+    "init": 0,
+    "noise": 10,
+    "tstar": 4460
+  },
+  {
+    "batch": 16,
+    "init": 0,
+    "noise": 11,
+    "tstar": 5300
+  },
+  {
+    "batch": 16,
+    "init": 0,
+    "noise": 12,
+    "tstar": 5400
+  },
+  {
+    "batch": 16,
+    "init": 0,
+    "noise": 13,
+    "tstar": 3240
+  },
+  {
+    "batch": 16,
+    "init": 0,
+    "noise": 14,
+    "tstar": 5480
+  },
+  {
+    "batch": 16,
+    "init": 0,
+    "noise": 15,
+    "tstar": 3120
+  },
+  {
+    "batch": 16,
+    "init": 0,
+    "noise": 16,
+    "tstar": 6440
+  },
+  {
+    "batch": 16,
+    "init": 0,
+    "noise": 17,
+    "tstar": 2760
+  }
+]

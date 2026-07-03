@@ -1,0 +1,20 @@
+{
+  "256": {
+    "vocab": 256,
+    "tstar": 100.0,
+    "Mstar": 153600.0,
+    "n": 5
+  },
+  "1024": {
+    "vocab": 1024,
+    "tstar": null,
+    "Mstar": null,
+    "n": 0
+  },
+  "4096": {
+    "vocab": 4096,
+    "tstar": null,
+    "Mstar": null,
+    "n": 0
+  }
+}

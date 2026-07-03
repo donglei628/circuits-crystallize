@@ -1,0 +1,15 @@
+{
+  "vocab": 50304,
+  "zipf": true,
+  "init_emb": null,
+  "freeze": false,
+  "tstar": null,
+  "traj": [
+    {
+      "step": 0,
+      "induction": 0.0,
+      "c_copy": 1.0,
+      "qk_prev": 0.011039900593459606
+    }
+  ]
+}

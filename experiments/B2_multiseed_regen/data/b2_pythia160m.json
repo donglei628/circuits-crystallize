@@ -1,0 +1,122 @@
+{
+  "model": "EleutherAI/pythia-160m",
+  "base": 0.9484855532646179,
+  "topk": [
+    [
+      4,
+      6
+    ],
+    [
+      8,
+      2
+    ],
+    [
+      5,
+      6
+    ]
+  ],
+  "runs": [
+    {
+      "target": [
+        4,
+        6
+      ],
+      "seed": 0,
+      "base": 0.9484855532646179,
+      "crater": 0.0063255298882722855,
+      "peak": 0.7501813173294067,
+      "peak_head": [
+        5,
+        0
+      ],
+      "peak_step": 75,
+      "recovery_pct": 78.95217043655029,
+      "relocated": true
+    },
+    {
+      "target": [
+        4,
+        6
+      ],
+      "seed": 1,
+      "base": 0.9484855532646179,
+      "crater": 0.006019412074238062,
+      "peak": 0.8488231897354126,
+      "peak_head": [
+        5,
+        0
+      ],
+      "peak_step": 100,
+      "recovery_pct": 89.42536403447588,
+      "relocated": true
+    },
+    {
+      "target": [
+        8,
+        2
+      ],
+      "seed": 0,
+      "base": 0.9484855532646179,
+      "crater": 0.002347294706851244,
+      "peak": 0.8856996297836304,
+      "peak_head": [
+        5,
+        0
+      ],
+      "peak_step": 150,
+      "recovery_pct": 93.36398006178352,
+      "relocated": true
+    },
+    {
+      "target": [
+        8,
+        2
+      ],
+      "seed": 1,
+      "base": 0.9484855532646179,
+      "crater": 0.004115286748856306,
+      "peak": 0.8995089530944824,
+      "peak_head": [
+        5,
+        0
+      ],
+      "peak_step": 150,
+      "recovery_pct": 94.81383500659823,
+      "relocated": true
+    },
+    {
+      "target": [
+        5,
+        6
+      ],
+      "seed": 0,
+      "base": 0.9484855532646179,
+      "crater": 0.0048299324698746204,
+      "peak": 0.9415637254714966,
+      "peak_head": [
+        4,
+        6
+      ],
+      "peak_step": 75,
+      "recovery_pct": 99.26648793896953,
+      "relocated": true
+    },
+    {
+      "target": [
+        5,
+        6
+      ],
+      "seed": 1,
+      "base": 0.9484855532646179,
+      "crater": 0.005722568836063147,
+      "peak": 0.9225073456764221,
+      "peak_head": [
+        4,
+        6
+      ],
+      "peak_step": 50,
+      "recovery_pct": 97.2444603768632,
+      "relocated": true
+    }
+  ]
+}

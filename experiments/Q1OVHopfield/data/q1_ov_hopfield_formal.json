@@ -1,0 +1,56 @@
+[
+  {
+    "seed": 0,
+    "recall": 1.0,
+    "copy_head": 1,
+    "pm_head": 3,
+    "copy_fid": 1.0,
+    "other_fid": 0.921875,
+    "diag_ratio": 5.2482781410217285
+  },
+  {
+    "seed": 1,
+    "recall": 1.0,
+    "copy_head": 0,
+    "pm_head": 2,
+    "copy_fid": 1.0,
+    "other_fid": 0.203125,
+    "diag_ratio": 6.2185893058776855
+  },
+  {
+    "seed": 2,
+    "recall": 1.0,
+    "copy_head": 2,
+    "pm_head": 2,
+    "copy_fid": 1.0,
+    "other_fid": 0.828125,
+    "diag_ratio": 5.194363117218018
+  },
+  {
+    "seed": 3,
+    "recall": 1.0,
+    "copy_head": 0,
+    "pm_head": 2,
+    "copy_fid": 1.0,
+    "other_fid": 0.984375,
+    "diag_ratio": 5.907108306884766
+  },
+  {
+    "seed": 4,
+    "recall": 1.0,
+    "copy_head": 1,
+    "pm_head": 0,
+    "copy_fid": 1.0,
+    "other_fid": 0.96875,
+    "diag_ratio": 5.110118865966797
+  },
+  {
+    "seed": 5,
+    "recall": 1.0,
+    "copy_head": 1,
+    "pm_head": 3,
+    "copy_fid": 1.0,
+    "other_fid": 0.953125,
+    "diag_ratio": 4.644745826721191
+  }
+]

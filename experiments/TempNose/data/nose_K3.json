@@ -1,0 +1,80 @@
+[
+  {
+    "T_bath": 0.0,
+    "med_tstar": 1025.0,
+    "n_formed": 6,
+    "all": [
+      1000,
+      1125,
+      925,
+      1050,
+      1175,
+      975
+    ]
+  },
+  {
+    "T_bath": 0.003,
+    "med_tstar": 787.5,
+    "n_formed": 6,
+    "all": [
+      875,
+      825,
+      825,
+      750,
+      750,
+      700
+    ]
+  },
+  {
+    "T_bath": 0.01,
+    "med_tstar": 1012.5,
+    "n_formed": 6,
+    "all": [
+      1050,
+      1125,
+      925,
+      850,
+      1250,
+      975
+    ]
+  },
+  {
+    "T_bath": 0.03,
+    "med_tstar": 4725.0,
+    "n_formed": 5,
+    "all": [
+      3600,
+      4525,
+      6325,
+      null,
+      4725,
+      8000
+    ]
+  },
+  {
+    "T_bath": 0.1,
+    "med_tstar": null,
+    "n_formed": 0,
+    "all": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  {
+    "T_bath": 0.3,
+    "med_tstar": null,
+    "n_formed": 0,
+    "all": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+]

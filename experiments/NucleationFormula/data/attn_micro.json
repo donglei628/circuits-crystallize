@@ -1,0 +1,26 @@
+{
+  "plain_K2": {
+    "t_form": 40,
+    "K": 2,
+    "sep_ratio": 1.0,
+    "max_cov": 1,
+    "n_distinct": 2,
+    "most_merged_head_covers": 1
+  },
+  "plain_K3": {
+    "t_form": 140,
+    "K": 3,
+    "sep_ratio": 1.0,
+    "max_cov": 1,
+    "n_distinct": 3,
+    "most_merged_head_covers": 1
+  },
+  "plain_K5_SATURATED": {
+    "t_form": 880,
+    "K": 5,
+    "sep_ratio": 1.0,
+    "max_cov": 1,
+    "n_distinct": 5,
+    "most_merged_head_covers": 1
+  }
+}

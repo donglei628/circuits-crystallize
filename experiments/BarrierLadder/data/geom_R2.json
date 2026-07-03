@@ -1,0 +1,8 @@
+{
+  "vocab": 50304,
+  "hidden": 768,
+  "k": 192,
+  "emb": "random",
+  "C_copy_train": 1.0,
+  "C_copy_test": 0.045500002801418304
+}

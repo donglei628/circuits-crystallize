@@ -1,0 +1,100 @@
+{
+  "model": "EleutherAI/pythia-160m",
+  "base": 0.0289306640625,
+  "ind_heads": [
+    [
+      4,
+      6
+    ],
+    [
+      4,
+      8
+    ],
+    [
+      4,
+      10
+    ],
+    [
+      4,
+      11
+    ],
+    [
+      5,
+      0
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      5,
+      7
+    ]
+  ],
+  "results": [
+    {
+      "restore": [
+        "PREV"
+      ],
+      "name": "PREV",
+      "crater": 3.4689903259277344e-05,
+      "regrew": 150.0,
+      "rate": 0.006666666666666667
+    },
+    {
+      "restore": [
+        "IND_QK"
+      ],
+      "name": "IND_QK",
+      "crater": 2.6881694793701172e-05,
+      "regrew": 120.0,
+      "rate": 0.008333333333333333
+    },
+    {
+      "restore": [
+        "IND_OV"
+      ],
+      "name": "IND_OV",
+      "crater": 2.0682811737060547e-05,
+      "regrew": 160.0,
+      "rate": 0.00625
+    },
+    {
+      "restore": [
+        "PREV",
+        "IND_QK"
+      ],
+      "name": "PREV+IND_QK",
+      "crater": 3.731250762939453e-05,
+      "regrew": 120.0,
+      "rate": 0.008333333333333333
+    },
+    {
+      "restore": [
+        "PREV",
+        "IND_OV"
+      ],
+      "name": "PREV+IND_OV",
+      "crater": 5.53131103515625e-05,
+      "regrew": 130.0,
+      "rate": 0.007692307692307693
+    },
+    {
+      "restore": [
+        "IND_QK",
+        "IND_OV"
+      ],
+      "name": "IND_QK+IND_OV",
+      "crater": 5.650520324707031e-05,
+      "regrew": 100.0,
+      "rate": 0.01
+    },
+    {
+      "restore": [],
+      "name": "none",
+      "crater": 1.8715858459472656e-05,
+      "regrew": 140.0,
+      "rate": 0.007142857142857143
+    }
+  ]
+}
